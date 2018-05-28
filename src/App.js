@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import AlphabetList from 'alphabet-list'
+import AlphabetList from 'react-alphabet-list'
 import { Tag, Icon } from 'antd';
 import randomWords from 'random-words';
 
